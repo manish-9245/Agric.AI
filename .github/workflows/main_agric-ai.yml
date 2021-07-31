@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: Agric-AI
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF01FC1CB17E47FD97A21C095AE9B9D9 }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB5D469DCBA346389DD940E7B03AA441 }}
 
